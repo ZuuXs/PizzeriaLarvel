@@ -1,8 +1,8 @@
 
-# Site de Pizza
+# Site de Pizzeria
 
 
-## Présentation du Site
+## Intro
 <p> <strong>Le site permet d'effectuer des commandes de pizza(à emporter), il comporte 3 acteurs : </strong></p>
 <ul>
 <li>Les utilisateurs: ils peuvent parcourir la liste des pizzas, les rajouter au panier, passer la commande et en être informé de son statut</li>
@@ -10,7 +10,7 @@
 <li>Le pizzaiolo: il peut voir les commandes dans l’ordre et de changer leur statut</li>
  </ul>
  
-## Fonctionnalités
+## Méthodes
 <ol>
     <li>
        <strong>Administrateur : </strong></li>
